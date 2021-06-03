@@ -1,0 +1,10 @@
+# Project exclude paths
+/venv/
+
+# Project exclude extension
+*.json
+
+# General
+*.DS_Store
+.idea
+.vscode/
